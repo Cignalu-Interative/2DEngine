@@ -7,5 +7,5 @@ Moteur développer par :
 -DE ROS Vivien
 -MERMIN Kylian 
 
-Tuto de lancement aller dans bin puis double clique sur le .bat
+Tuto de lancement aller dans bin puis double clique sur le make.bat
 après revenir en arrière aller dans ide et lancer la solution .sln
